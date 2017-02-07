@@ -1,0 +1,50 @@
+[
+  {
+    'movieName':'eega',
+    'cast':['nani','samanta','sudeep','rajamouli']
+  },
+  {
+    'movieName':'dhruva',
+    'cast':['ramcharan','rakul','arvindswamy','surenderreddy']
+  },
+  {
+    'movieName':'A AA',
+    'cast':['nithin','samanta','anupama','trivikram']
+  },
+  {
+    'movieName':'mirchi',
+    'cast':['prabhas','anushkasshetty','richa','koratalasiva']
+  },
+  {
+    'movieName':'jalsa',
+    'cast':['pawankalyan','ileana','kamalini','trivikram']
+  },
+  {
+    'movieName':'oopiri',
+    'cast':['nagarjuna','karthi','tamanna','vamsipaidipally']
+  },
+  {
+    'movieName':'eega',
+    'cast':['nani','samanta','sudeep','rajamouli']
+  },
+  {
+    'movieName':'dhruva',
+    'cast':['ramcharan','rakul','arvindswamy','surenderreddy']
+  },
+  {
+    'movieName':'A AA',
+    'cast':['nithin','samanta','anupama','trivikram']
+  },
+  {
+    'movieName':'mirchi',
+    'cast':['prabhas','anushkasshetty','richa','koratalasiva']
+  },
+  {
+    'movieName':'jalsa',
+    'cast':['pawankalyan','ileana','kamalini','trivikram']
+  },
+  {
+    'movieName':'oopiri',
+    'cast':['nagarjuna','karthi','tamanna','vamsipaidipally']
+  }
+]
